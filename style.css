@@ -1,0 +1,14 @@
+path:hover{
+	fill: url(#my-cool-gradient) #447799;
+
+}
+
+.st15.active{
+	fill: url(#my-cool-gradient) #447799;
+}
+
+.line{
+	height: 1px;
+
+	background: linear-gradient(to right, #2f2d2e, rgba(47, 45, 46, 0.4));
+}
